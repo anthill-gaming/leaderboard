@@ -27,7 +27,7 @@ LOCALE_PATH = os.path.join(BASE_DIR, 'locale')
 # APPLICATION_CLASS = 'leaderboard.apps.AnthillApplication'
 APPLICATION_NAME = 'leaderboard'
 APPLICATION_VERBOSE_NAME = _('Leaderboard')
-APPLICATION_DESCRIPTION = _('See and edit player ranking')
+APPLICATION_DESCRIPTION = _('Track and edit player ranking')
 APPLICATION_ICON_CLASS = 'icon-trophy2'
 APPLICATION_COLOR = 'indigo'
 
